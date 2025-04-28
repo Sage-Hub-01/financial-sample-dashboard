@@ -13,4 +13,4 @@ Visualizations include:
 - Top 5 performing segments
 - Total sales and profit KPIs
 
-🔗 https://lookerstudio.google.com/s/pFZR9r5ZEhE
+🔗 https://lookerstudio.google.com/reporting/c05ad265-cb10-4bfe-8e26-4a232fca1407
